@@ -26,8 +26,11 @@ chmod +x *
 python Bomber.py
 
 ++++++++++++++++++
+* ut of service ❌⭕⁦* 
 
 *(Use it correctly)*
+
+
 
 From Iran 🇮🇷🌐
 
